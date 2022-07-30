@@ -11,5 +11,9 @@
     <!-- RGB -->
     <color name="color1">#F00</color>
     <!-- ARGB -->
-    <color name="color2"></color>
+    <color name="color2">#5f00</color>
+    <!-- RRGGBB -->
+    <color name="color3">#00FF00</color>
+    <!-- AARRGGBB -->
+    <color name="color4">#B72D81DA</color>
 </resources>
